@@ -1,4 +1,6 @@
-##  🧑 <strong>{Jhonathan}</strong>
+<img src = 'https://i.imgur.com/UkNE2ve.gif' width = '200px' alt = 'Icon'>
+
+##   <strong>{Jhonathan}</strong>
 
 > Olá, prazer em te conhecer, pode me chamar de Jhonathan ou pelo meu apelido Jhow!!! <br>
 > Atuamente estou focado em ser um Desenvolverdor Front End, sempre tentando aprender mais sobre este mundo tecnológico.
