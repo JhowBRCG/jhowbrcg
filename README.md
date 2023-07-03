@@ -1,15 +1,12 @@
 
-<img src = 'https://i.imgur.com/UkNE2ve.gif' width = '200' align = 'left' alt = 'Icon' >
+<img  src = 'https://i.imgur.com/UkNE2ve.gif' width = '200' align = 'left' alt = 'Icon' >
  
 
+
 ## &nbsp;&nbsp;&nbsp; {Jhonathan} 
-> &nbsp; Olá, prazer em te conhecer, pode me chamar de Jhonathan ou pelo meu apelido Jhow!!!
-> Atualmente estou &nbsp;&nbsp;focado em ser um Desenvolverdor Front End, sempre tentando aprender mais sobre este &nbsp;&nbsp;mundo tecnológico. <br><br>
-> &nbsp; Hii, Nice to meet you, you can call me by my name Jhonathan or by my nickname Jhow!!! 
->  Actually I am focus to &nbsp;&nbsp;be a Front End developer, always trying to learn more about this tech world.
-
-
-
+>&nbsp;&nbsp;Olá, prazer em te conhecer, pode me chamar de Jhonathan ou pelo meu apelido Jhow!!! Atualmente &nbsp;&nbsp;estou &nbsp;&nbsp;focado em ser um Desenvolverdor Front End, sempre tentando aprender mais sobre este mundo tecnológico.
+>
+>&nbsp;&nbsp;Hii, Nice to meet you, you can call me by my name Jhonathan or by my nickname Jhow!!! Actually I &nbsp;&nbsp;am focus to &nbsp;&nbsp;be a Front End developer, always trying to learn more about this tech world.
 
 
 
