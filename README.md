@@ -19,9 +19,9 @@
 ---
 
 ## ⭐  GitHub status
-[![jhowbrcg](https://github-readme-stats.vercel.app/api?username=jhowbrcg&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![jhowbrcg](https://readmestats.999857.xyz/api?username=jhowbrcg&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![jhowbrcg](https://github-readme-stats.vercel.app/api/top-langs/?username=jhowbrcg&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![jhowbrcg](https://readmestats.999857.xyz/api/top-langs/?username=jhowbrcg&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
