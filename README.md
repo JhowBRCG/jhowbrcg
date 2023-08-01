@@ -4,9 +4,9 @@
 
 
 ## &nbsp;&nbsp;&nbsp; Jhonathan - Front End Developer
->Olá, prazer em te conhecer, pode me chamar de Jhonathan ou pelo meu apelido Jhow!!! Atualmente estou focado em ser um Desenvolverdor Front End, sempre tentando aprender mais sobre este mundo tecnológico.
+>Olá, meu nome é Jhonathan e atualmente eu estou estudando para ser um desenvolvedor Front-End. Sempre gostei muito de computadores e tecnologia desde que eu era criança e agora eu estou atrás desse objetivo. 
 >
->Hii, Nice to meet you, you can call me by my name Jhonathan or by my nickname Jhow!!! Actually I am focus to be a Front End developer, always trying to learn more about this tech world.
+>Hi, I'm Jhonathan and at the moment I'm studying to become a Front-End developer. Since I was a kid I've always liked computers and technologies and now I'm seeking for this objective.
 
 
 
