@@ -1,13 +1,22 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img  src = 'https://i.imgur.com/UkNE2ve.gif' width = '200' align = 'right' alt = 'Icon' >
+
+
  
+<h1 align = 'center'>Hi, I'm Jhonathan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 
-## &nbsp;&nbsp;&nbsp; Jhonathan - Front End Developer
->Olá, meu nome é Jhonathan e atualmente eu estou estudando para ser um desenvolvedor Front-End. Sempre gostei muito de computadores e tecnologia desde que eu era criança e agora eu estou atrás desse objetivo. 
->
->Hi, I'm Jhonathan and at the moment I'm studying to become a Front-End developer. Since I was a kid I've always liked computers and technologies and now I'm seeking for this objective.
+## About me
+Hey there, I'm currently studying to become a Front-End developer. Since I was a kid I've always liked computers and technologies, and now I'm seeking for this goal.
 
+```
+curiosities
+-----------
+💻 A Frontend Student
+🌑 Always dark mode, please
+🏳  Brazilian
+📚 Always learning new things
+```
 
 
 ----
@@ -31,3 +40,4 @@
 <a href = ''> <img src = 'https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt = 'GMAIL'></a>
 <a href = ''> <img src = 'https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt = 'INSTAGRAM'></a>
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
