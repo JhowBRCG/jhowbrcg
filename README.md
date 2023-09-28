@@ -16,7 +16,7 @@
 
 
 ## About me
-Hey there, I'm currently studying to become a Front-End developer. Since I was a kid I've always liked computers and technologies, and now I'm seeking for this goal.
+Hey there, I'm currently studying to become a front-end developer. Since I was a kid, I've always liked computers and technologies, and now I'm seeking this goal.
 
 ```
 curiosities
