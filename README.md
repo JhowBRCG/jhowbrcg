@@ -16,8 +16,7 @@
 
 
 ## About me
-Hey there! I'm currently studying to become a front-end developer. 
-Since I was a kid, I've always liked computers and technologies. Now I'm seeking my first job in the area.
+Hi, I'm Jonathan. At the moment, I'm currently studying web development, with a focus on the front-end first and later learning the back-end, with the goal of becoming a full-stack developer.
 
 ```
 curiosities
@@ -26,7 +25,7 @@ curiosities
 🌑 Always dark mode, please
 🏳  Brazilian
 📚 Always learning new things
-🏳  Italian-descent
+🏳  Italian descent
 ```
 
 
