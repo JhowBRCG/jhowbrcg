@@ -21,7 +21,7 @@ Hi, I'm Jonathan. At the moment, I'm currently studying web development, with a 
 ```
 curiosities
 -----------
-💻 A Frontend Student
+💻 FrontEnd student
 🌑 Always dark mode, please
 🏳  Brazilian
 📚 Always learning new things
